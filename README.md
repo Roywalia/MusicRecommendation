@@ -82,8 +82,8 @@ Music has a profound effect on human emotions, aiding in mood enhancement and se
 
 
 ### Dataset
-    * FER2013: A labeled dataset of 48x48 pixel grayscale images with various facial expressions.
-    * Emotion categories: Happy, Sad, Angry, Neutral, and Surprised.
+   * FER2013: A labeled dataset of 48x48 pixel grayscale images with various facial expressions.
+   * Emotion categories: Happy, Sad, Angry, Neutral, and Surprised.
 
 
 ### Results
