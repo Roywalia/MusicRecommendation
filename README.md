@@ -1,6 +1,6 @@
-# Arrange-Puzzle-Game
+# Music Recommendation using Face Emotion Recognition
 
-#### This is a C-based implementation of a 4x4 sliding puzzle game where the player can move tiles by pressing the 'w', 'a', 's', 'd' keys and aim to arrange the numbers in order.
+#### This project integrates facial emotion recognition and music recommendation to create a personalized music experience. Using real-time facial emotion detection, it matches the user’s mood with curated playlists, ensuring the music resonates with their emotional state.
 
 ## Game Overview
 * The game board is a 4x4 grid, with 15 numbered tiles (1-15) and 1 empty space (represented by 0).
