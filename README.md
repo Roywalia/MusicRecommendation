@@ -94,3 +94,11 @@ Music has a profound effect on human emotions, aiding in mood enhancement and se
 | CNN |	95.0% |	71.5% |
 
 CNN outperformed other algorithms in both validation and testing phases.
+
+
+
+### Future Scope
+* Improve accuracy under poor lighting and low-resolution camera conditions.
+* Extend emotion categories (e.g., Fear, Disgust).
+* Implement music therapy for stress, anxiety, and depression management.
+* Add multilingual support for global users.
