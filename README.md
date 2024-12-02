@@ -92,4 +92,5 @@ Music has a profound effect on human emotions, aiding in mood enhancement and se
 | SVM |	66.0% |	66.9% |
 | ELM |	62.0% |	63.4% |
 | CNN |	95.0% |	71.5% |
+
 CNN outperformed other algorithms in both validation and testing phases.
