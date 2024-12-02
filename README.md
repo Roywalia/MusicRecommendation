@@ -15,8 +15,10 @@
 9. Future Scope
 
 
+
 ### Introduction
 Music has a profound effect on human emotions, aiding in mood enhancement and self-awareness. This project leverages Convolutional Neural Networks (CNN) for facial emotion recognition and recommends music playlists tailored to the detected emotions. It aims to simplify playlist management and enhance user experience with minimal manual effort.
+
 
 
 ### Features
@@ -26,6 +28,7 @@ Music has a profound effect on human emotions, aiding in mood enhancement and se
 * Curated Playlists: Each playlist is emotion-specific, designed to complement or uplift the user’s mood.
 
 
+
 ### Technologies Used
 * Python: Primary programming language.
 * OpenCV: For real-time face detection.
@@ -33,6 +36,8 @@ Music has a profound effect on human emotions, aiding in mood enhancement and se
 * Spotipy: For Spotify playlist integration.
 * Pandas: For handling and saving data.
 * Tkinter: GUI for a seamless user experience.
+
+
 
 
 ### Installation
@@ -81,9 +86,11 @@ Music has a profound effect on human emotions, aiding in mood enhancement and se
    * Map detected emotion to a pre-defined playlist via Spotify API.
 
 
+
 ### Dataset
    * FER2013: A labeled dataset of 48x48 pixel grayscale images with various facial expressions.
    * Emotion categories: Happy, Sad, Angry, Neutral, and Surprised.
+
 
 
 ### Results
@@ -94,6 +101,7 @@ Music has a profound effect on human emotions, aiding in mood enhancement and se
 | CNN |	95.0% |	71.5% |
 
 CNN outperformed other algorithms in both validation and testing phases.
+
 
 
 
